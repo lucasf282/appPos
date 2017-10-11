@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_sigin">Sigin</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="img_des_logo">Logo from application</string>
+</resources>
