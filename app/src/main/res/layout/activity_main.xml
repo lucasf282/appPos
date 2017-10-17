@@ -33,7 +33,6 @@
             android:ems="10"
             android:hint="@string/hint_email"
             android:inputType="textEmailAddress" />
-
         <EditText
             android:id="@+id/ed_text_password"
             android:layout_width="match_parent"
